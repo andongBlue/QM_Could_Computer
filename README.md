@@ -65,4 +65,13 @@ The meaning of each parameter is as follows.
 3. The application uses a cloud database for accessing persistent information. **3 Points**
 
    We use Amazon Relational Database Service (Amazon RDS) for MySQL as our cloud database for accessing persistent information. See **config.py** for database configuration.
+   
+## The information of members
 
+| Name           | Student ID |
+| -------------- | ---------- |
+| Boshi Zhang    | 200241520  |
+| Huixiang Huang | 200258942  |
+| Andong Chen    | 200645832  |
+| Qiyue Zhang    | 200058205  |
+| Yimeng Shao    | 200165880  |
